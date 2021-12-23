@@ -1,0 +1,3 @@
+#cloud-config user data
+
+echo "3 tier case study for KPMG"
