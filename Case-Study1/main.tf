@@ -1,5 +1,5 @@
 module "autoscaling" {
-  source      = "./modules/autoscaling" #A
+  source      =           "./modules/autoscaling" #A
   namespace   = var.namespace           #B
   ssh_keypair = var.ssh_keypair         #A
 
